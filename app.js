@@ -23,7 +23,7 @@ app.use((req, res, next) => {
    console.log(req.files.file.name)
   let EDFile = req.files.file
  //F:/Galilense/Frontend/dist/
-  EDFile.mv(`F:/Galilense/Pruebaimg/assets/${EDFile.name}`,err => {
+  EDFile.mv(`/var/www/html/assets/${EDFile.name}`,err => {
       if(err) return res.status(500).send({ message : err })
 
       return res.status(200).send({ message : 'File upload' })
