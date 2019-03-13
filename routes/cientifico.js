@@ -1,10 +1,10 @@
-
+fs = require('fs')
 const Cientifico = require('../models/cientifico'),
   c = console.log
 
 const apiResponse = (req, res, err, data) => {
   if (err) {
-    res.status(500).send({
+    res.status(501).send({
       message: `Error interno del servidor. ${err.message}`
     })
   } else {
@@ -37,6 +37,7 @@ const postCientifico = async (req, res) => {
 const getCientifico = async (req, res) => {
   await Cientifico
     .findById(req.params.id)
+    .populate('country', 'name')
     .exec((err, data) => apiResponse(req, res, err, data))
 }
 
@@ -51,30 +52,51 @@ const putCientifico = async (req, res) => {
 }
 
 const deleteCientifico= async (req, res) => {
+
   await Cientifico.findByIdAndRemove(
     req.params.id,
     (err, data) => apiResponse(req, res, err, data)
   )
 }
 
-const deleteCientificos= async (req, res) => {
-  if(req.params.passKey!=987654){
-    res.status(500).send({
-      message: `api Key incorrecta}`
+const reiniciarCientificos= async (req, res) => {
+  if(req.params.passKey!=process.env.CLAVE_REINICIO){
+  await  res.status(401).send({
+      message: `api Key incorrecta`
     })
+  }else{
+    await Cientifico.deleteMany(
+      {},
+      (err, data) => apiResponse2(req, res, err, data)
+    )
   }
-  await Cientifico.deleteMany(
-    {hechoPorJair:false},
-    (err, data) => apiResponse(req, res, err, data)
-  )
+ 
+  
 }
+
+const apiResponse2 = (req, res, err, data) => {
+  
+  const cientificos = JSON.parse(fs.readFileSync('./routes/cientificosBase.json', 'utf-8'))
+     Cientifico.insertMany(cientificos, (err2, data2) => {
+      if (err2) {
+        res.status(500).send({
+          message: `Error interno del servidor. ${err.message}`
+        })
+      } else {
+        res.status(200).send({ data2 })
+      }
+    })
+
+}
+
+
 module.exports = {
     getCientificos,
   postCientifico,
   getCientifico,
   putCientifico,
   deleteCientifico,
-  deleteCientificos
+  reiniciarCientificos,
 }
 
 

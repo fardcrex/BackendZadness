@@ -14,14 +14,14 @@ const mongoose = require('mongoose'),
     descripcion:{
         type: String,
     },
-    URL:{
-        type: String,
-        unique: true
+    url:{
+        type: String
+       
     },
     imagen: String,  
     AñoNacimiento: Number,
     AñoFallecimiento: Number,
-    hechoPorJair: Boolean
+    usuario: String
   })
 
 //mongodb va a pluralizar y poner en minúsculas el modelo

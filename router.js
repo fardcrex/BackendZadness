@@ -5,7 +5,7 @@ const express = require('express'),
  
 api.get('/', async (req, res) => {
   await res.status(200).send({
-    message: 'Funcionando API RESTful de Maratones con Node.js y MongoDB.'
+    message: 'Funcionando API RESTful de Cientificos con Node.js y MongoDB.'
   })
 })
 
@@ -16,7 +16,6 @@ api.post('/cientifico', Cientifico.postCientifico)
 api.get('/cientifico/:id', Cientifico.getCientifico)
 api.put('/cientifico/:id', Cientifico.putCientifico)
 api.delete('/cientifico/:id', Cientifico.deleteCientifico)
-api.delete('/cientificos/:passKey', Cientifico.deleteCientificos)
-
+api.get('/cientificos/:passKey', Cientifico.reiniciarCientificos)
 
 module.exports = api
