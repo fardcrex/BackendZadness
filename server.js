@@ -3,7 +3,7 @@ const c = console.log,
   db = require('./models/db')
 
 app.listen(
-  3500,
+  app.get('port'),
   () => c(`Iniciando API RESTful en el puerto ${app.get('port')}`)
 )
 

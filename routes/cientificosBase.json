@@ -2,13 +2,13 @@
     
     {
         
-        "name" : "Peter Debye",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "name" : "Peter Debyes",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c8404970ca7a20b7c240b8d.jpg",
         "url" : "https://es.wikipedia.org/wiki/Peter_Debye",
-        "AÃ±oNacimiento" : 1884,
-        "AÃ±oFallecimiento" : 1966,
-        "descripcion" : "Petrus Peter Josephus Wilhelmus Debye o Petrus Josephus Wilhelmus Debije Maastricht, 24 de marzo de 1884 - Ithaca, Nueva York, 2 de noviembre de 1966 fue un ingeniero elÃ©ctrico, fÃ­sico-quÃ­mico y profesor universitario estadounidense de origen neerlandÃ©s, autor de numerosos trabajos relacionados con la mecÃ¡nica cuÃ¡ntica.\n\nEn 1936 ganÃ³ el premio Nobel de QuÃ­mica por su contribuciÃ³n al conocimiento de las estructuras moleculares."
+        "AñoNacimiento" : 1884,
+        "AñoFallecimiento" : 1966,
+        "descripcion" : "Petrus (Peter) Josephus Wilhelmus Debye o Petrus Josephus Wilhelmus Debije (Maastricht, 24 de marzo de 1884 - Ithaca, Nueva York, 2 de noviembre de 1966) fue un ingeniero eléctrico, físico-químico y profesor universitario estadounidense de origen neerlandés, autor de numerosos trabajos relacionados con la mecánica cuántica.\n\nEn 1936 ganó el premio Nobel de Química por su contribución al conocimiento de las estructuras moleculares."
         
     },
 
@@ -16,102 +16,102 @@
     {
     
         "name" : "Irving Langmuir",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c8405740ca7a20b7c240b8e.jpg",
         "url" : "https://es.wikipedia.org/wiki/Irving_Langmuir",
-        "AÃ±oNacimiento" : 1181,
-        "AÃ±oFallecimiento" : 1957,
-        "descripcion" : "Fue un ingeniero metalÃºrgico, fÃ­sico y quÃ­mico estadounidense conocido por su trabajo en distintos campos de la quÃ­mica y galardonado con el Premio Nobel de QuÃ­mica del aÃ±o 1932 Â«por sus investigaciones en la quÃ­mica de superficieÂ»."
+        "AñoNacimiento" : 1181,
+        "AñoFallecimiento" : 1957,
+        "descripcion" : "Fue un ingeniero metalúrgico, físico y químico estadounidense conocido por su trabajo en distintos campos de la química y galardonado con el Premio Nobel de Química del Año 1932 «por sus investigaciones en la química de superficie»."
 
     },
 
     {
     
         "name" : "Max Planck",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c8405c00ca7a20b7c240b8f.jpg",
         "url" : "https://es.wikipedia.org/wiki/Max_Planck",
-        "AÃ±oNacimiento" : 1858,
-        "AÃ±oFallecimiento" : 1947,
-        "descripcion" : "Fue un fÃ­sico y matemÃ¡tico alemÃ¡n considerado como el fundador de la teorÃ­a cuÃ¡ntica y galardonado con el Premio Nobel de FÃ­sica en 1918."
+        "AñoNacimiento" : 1858,
+        "AñoFallecimiento" : 1947,
+        "descripcion" : "Fue un físico y matemático alemán considerado como el fundador de la teoría cuántica y galardonado con el Premio Nobel de Física en 1918."
         
 
     },
     {
         
         "name" : "Marie Curie",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c8406380ca7a20b7c240b90.jpg",
         "url" : "https://es.wikipedia.org/wiki/Marie_Curie",
-        "AÃ±oNacimiento" : 1867,
-        "AÃ±oFallecimiento" : 1934,
-        "descripcion" : "Fue una cientÃ­fica polaca nacionalizada francesa. Pionera en el campo de la radiactividad, fue la primera persona en recibir dos premios Nobel en distintas especialidades â€”FÃ­sica y QuÃ­micaâ€” y la primera mujer en ocupar el puesto de profesora en la Universidad de ParÃ­s. En 1995 fue sepultada con honores en el PanteÃ³n de ParÃ­s por mÃ©ritos propios"
+        "AñoNacimiento" : 1867,
+        "AñoFallecimiento" : 1934,
+        "descripcion" : "Fue una científica polaca nacionalizada francesa. Pionera en el campo de la radiactividad, fue la primera persona en recibir dos premios Nobel en distintas especialidades —Física y Química— y la primera mujer en ocupar el puesto de profesora en la Universidad de París. En 1995 fue sepultada con honores en el Panteón de París por méritos propios"
     }
     ,
     {
     
-        "name" : "Erwin SchrÃ¶dinger",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "name" : "Erwin Schrödinger",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c8406fc0ca7a20b7c240b91.jpg",
         "url" : "https://es.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger",
-        "AÃ±oNacimiento" : 1887,
-        "AÃ±oFallecimiento" : 1961,
-        "descripcion" : "Fue un fÃ­sico y filÃ³sofo austrÃ­aco, naturalizado irlandÃ©s, que realizÃ³ importantes contribuciones en los campos de la mecÃ¡nica cuÃ¡ntica y la termodinÃ¡mica.â€‹ RecibiÃ³ el Premio Nobel de FÃ­sica en 1933 por haber desarrollado la ecuaciÃ³n de SchrÃ¶dinger, compartido con Paul Dirac.â€‹ Tras mantener una larga correspondencia con Albert Einstein propuso el experimento mental del gato de SchrÃ¶dinger que mostraba las paradojas e interrogantes a los que abocaba la fÃ­sica cuÃ¡ntica.3"
+        "AñoNacimiento" : 1887,
+        "AñoFallecimiento" : 1961,
+        "descripcion" : "Fue un físico y filósofo austríaco, naturalizado irlandés, que realizó importantes contribuciones en los campos de la mecánica cuántica y la termodinámica.​ Recibió el Premio Nobel de Física en 1933 por haber desarrollado la ecuación de Schrödinger, compartido con Paul Dirac.​ Tras mantener una larga correspondencia con Albert Einstein propuso el experimento mental del gato de Schrödinger que mostraba las paradojas e interrogantes a los que abocaba la física cuántica.3"
     }
     ,
     {
     
         "name" : "Max Born",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c8407bc0ca7a20b7c240b92.jpg",
         "url" : "https://es.wikipedia.org/wiki/Max_Born",
-        "AÃ±oNacimiento" : 1882,
-        "AÃ±oFallecimiento" : 1970,
-        "descripcion" : " Fue un matemÃ¡tico y fÃ­sico alemÃ¡n.â€‹ Obtuvo el Premio Nobel de FÃ­sica en 1954 por sus trabajos en mecÃ¡nica cuÃ¡ntica y compartiÃ³ este galardÃ³n con el fÃ­sico alemÃ¡n Walter Bothe.â€‹ Posiblemente, la contribuciÃ³n mÃ¡s conocida a la fÃ­sica cuÃ¡ntica sea su interpretaciÃ³n probabilÃ­stica de la funciÃ³n de Onda de SchrÃ¶dinger. SegÃºn la misma, el cuadrado de la amplitud de dicha funciÃ³n es igual a la densidad de probabilidad del estado. Por ejemplo, en el caso de una funciÃ³n de onda que describa la posiciÃ³n de un electrÃ³n, el cuadrado de la amplitud serÃ¡ igual a la probabilidad de encontrar a dicho electrÃ³n en una posiciÃ³n determinada."
+        "AñoNacimiento" : 1882,
+        "AñoFallecimiento" : 1970,
+        "descripcion" : " Fue un matemático y físico alemán.​ Obtuvo el Premio Nobel de Física en 1954 por sus trabajos en mecánica cuántica y compartió este galardón con el físico alemán Walter Bothe.​ Posiblemente, la contribución más conocida a la física cuántica sea su interpretación probabilística de la función de Onda de Schrödinger. Según la misma, el cuadrado de la amplitud de dicha función es igual a la densidad de probabilidad del estado. Por ejemplo, en el caso de una función de onda que describa la posición de un electrón, el cuadrado de la amplitud será igual a la probabilidad de encontrar a dicho electrón en una posición determinada."
     }
     ,
     {
         
         "name" : "Niels Bohr",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c8408740ca7a20b7c240b93.jpg",
         "url" : "https://es.wikipedia.org/wiki/Niels_Bohr",
-        "AÃ±oNacimiento" : 1885,
-        "AÃ±oFallecimiento" : 1962,
-        "descripcion" : "Niels Henrik David Bohr fue un fÃ­sico danÃ©s que contribuyÃ³ en la comprensiÃ³n del Ã¡tomo y la mecÃ¡nica cuÃ¡ntica. Fue galardonado con el Premio Nobel de FÃ­sica en 1922."
+        "AñoNacimiento" : 1885,
+        "AñoFallecimiento" : 1962,
+        "descripcion" : "Niels Henrik David Bohr fue un físico danés que contribuyó en la comprensión del átomo y la mecánica cuántica. Fue galardonado con el Premio Nobel de Física en 1922."
     }
     ,
     {
     
         "name" : "Albert Einstein",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c8408ea0ca7a20b7c240b94.jpg",
         "url" : "https://es.wikipedia.org/wiki/Albert_Einstein",
-        "AÃ±oNacimiento" : 1879,
-        "AÃ±oFallecimiento" : 1955,
-        "descripcion" : " fue un fÃ­sico alemÃ¡n de origen judÃ­o, nacionalizado despuÃ©s suizo, austriaco y estadounidense. Se lo considera el cientÃ­fico mÃ¡s importante, conocido y popular del siglo XX.\n\nEn 1905, cuando era un joven fÃ­sico desconocido, empleado en la Oficina de Patentes de Berna, publicÃ³ su teorÃ­a de la relatividad especial. En ella incorporÃ³, en un marco teÃ³rico simple fundamentado en postulados fÃ­sicos sencillos, conceptos y fenÃ³menos estudiados antes por Henri PoincarÃ© y por Hendrik Lorentz. Como una consecuencia lÃ³gica de esta teorÃ­a, dedujo la ecuaciÃ³n de la fÃ­sica mÃ¡s conocida a nivel popular: la equivalencia masa-energÃ­a, E=mcÂ². Ese aÃ±o publicÃ³ otros trabajos que sentarÃ­an algunas de las bases de la fÃ­sica estadÃ­stica y de la mecÃ¡nica cuÃ¡ntica."
+        "AñoNacimiento" : 1879,
+        "AñoFallecimiento" : 1955,
+        "descripcion" : " fue un físico alemán de origen judío, nacionalizado después suizo, austriaco y estadounidense. Se lo considera el científico más importante, conocido y popular del siglo XX.\n\nEn 1905, cuando era un joven físico desconocido, empleado en la Oficina de Patentes de Berna, publicó su teoría de la relatividad especial. En ella incorporó, en un marco teórico simple fundamentado en postulados físicos sencillos, conceptos y fenómenos estudiados antes por Henri Poincaré y por Hendrik Lorentz. Como una consecuencia lógica de esta teoría, dedujo la ecuación de la física más conocida a nivel popular: la equivalencia masa-energía, E=mc². Ese Año publicó otros trabajos que sentarían algunas de las bases de la física estadística y de la mecánica cuántica."
     }
     ,
     {
     
         "name" : "Isaac Newton",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c840aa90ca7a20b7c240b95.jpg",
         "url" : "https://es.wikipedia.org/wiki/Isaac_Newton",
-        "AÃ±oNacimiento" : 1934,
-        "AÃ±oFallecimiento" : 1727,
-        "descripcion" : "Fue un fÃ­sico, filÃ³sofo, teÃ³logo, inventor, alquimista y matemÃ¡tico inglÃ©s. Es autor de los PhilosophiÃ¦ naturalis principia mathematica, mÃ¡s conocidos como los Principia, donde describe la ley de la gravitaciÃ³n universal y estableciÃ³ las bases de la mecÃ¡nica clÃ¡sica mediante las leyes que llevan su nombre. Entre sus otros descubrimientos cientÃ­ficos destacan los trabajos sobre la naturaleza de la luz y la Ã³ptica que se presentan principalmente en su obra Opticks, y en matemÃ¡ticas, el desarrollo del cÃ¡lculo infinitesimal."
+        "AñoNacimiento" : 1934,
+        "AñoFallecimiento" : 1727,
+        "descripcion" : "Fue un físico, filósofo, teólogo, inventor, alquimista y matemático inglés. Es autor de los Philosophiæ naturalis principia mathematica, más conocidos como los Principia, donde describe la ley de la gravitación universal y estableció las bases de la mecánica clásica mediante las leyes que llevan su nombre. Entre sus otros descubrimientos científicos destacan los trabajos sobre la naturaleza de la luz y la óptica (que se presentan principalmente en su obra Opticks), y en matemáticas, el desarrollo del cálculo infinitesimal."
     }
     ,
     {
     
         "name" : "James Clerk Maxwell",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c840b0d0ca7a20b7c240b96.png",
         "url" : "https://es.wikipedia.org/wiki/James_Clerk_Maxwell",
-        "AÃ±oNacimiento" : 1831,
-        "AÃ±oFallecimiento" : 1879,
-        "descripcion" : "Fue un cientÃ­fico escocÃ©s especializado en el campo de la fÃ­sica matemÃ¡tica. Su mayor logro fue la formulaciÃ³n de la teorÃ­a clÃ¡sica de la radiaciÃ³n electromagnÃ©tica, que unificÃ³ por primera vez la electricidad, el magnetismo y la luz como manifestaciones distintas de un mismo fenÃ³meno. Las ecuaciones de Maxwell, formuladas para el electromagnetismo, han sido ampliamente consideradas la â€œsegunda gran unificaciÃ³n de la fÃ­sicaâ€, siendo la primera aquella realizada por Isaac Newton."
+        "AñoNacimiento" : 1831,
+        "AñoFallecimiento" : 1879,
+        "descripcion" : "Fue un científico escocés especializado en el campo de la física matemática. Su mayor logro fue la formulación de la teoría clásica de la radiación electromagnética, que unificó por primera vez la electricidad, el magnetismo y la luz como manifestaciones distintas de un mismo fenómeno. Las ecuaciones de Maxwell, formuladas para el electromagnetismo, han sido ampliamente consideradas la “segunda gran unificación de la física”, siendo la primera aquella realizada por Isaac Newton."
         
         
     }
@@ -119,12 +119,12 @@
     {
         
         "name" : "Galileo Galilei",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c840baf0ca7a20b7c240b97.jpg",
         "url" : "https://es.wikipedia.org/wiki/Galileo_Galilei",
-        "AÃ±oNacimiento" : 1564,
-        "AÃ±oFallecimiento" : 1642,
-        "descripcion" : "Fue un astrÃ³nomo, filÃ³sofo, ingeniero,â€‹ matemÃ¡tico y fÃ­sico italiano, relacionado estrechamente con la revoluciÃ³n cientÃ­fica. Eminente hombre del Renacimiento, mostrÃ³ interÃ©s por casi todas las ciencias y artes mÃºsica, literatura, pintura. Sus logros incluyen la mejora del telescopio, gran variedad de observaciones astronÃ³micas, la primera ley del movimiento y un apoyo determinante a la Â«RevoluciÃ³n de CopÃ©rnicoÂ». Ha sido considerado como el Â«padre de la astronomÃ­a modernaÂ», el Â«padre de la fÃ­sica modernaÂ»â€‹ y el Â«padre de la cienciaÂ»."
+        "AñoNacimiento" : 1564,
+        "AñoFallecimiento" : 1642,
+        "descripcion" : "Fue un astrónomo, filósofo, ingeniero,​ matemático y físico italiano, relacionado estrechamente con la revolución científica. Eminente hombre del Renacimiento, mostró interés por casi todas las ciencias y artes (música, literatura, pintura). Sus logros incluyen la mejora del telescopio, gran variedad de observaciones astronómicas, la primera ley del movimiento y un apoyo determinante a la «Revolución de Copérnico». Ha sido considerado como el «padre de la astronomía moderna», el «padre de la física moderna»​ y el «padre de la ciencia»."
         
         
     }
@@ -132,12 +132,12 @@
     {
         
         "name" : "Christiaan Huygens",
-        "country" : "5c89c984ecbd574e71f7f953",
+        "country" : "5c89c984ecbd574e71f7f9f6",
         "imagen" : "/assets/5c840c6d0ca7a20b7c240b98.jpeg",
         "url" : "https://es.wikipedia.org/wiki/Christiaan_Huygens",
-        "AÃ±oNacimiento" : 1629,
-        "AÃ±oFallecimiento" : 1695,
-        "descripcion" : "Fue un astrÃ³nomo, fÃ­sico, matemÃ¡tico e inventor neerlandÃ©s. ExplicÃ³ la naturaleza de los anillos de Saturno, fue descubridor de TitÃ¡n, inventÃ³ el reloj de pÃ©ndulo moderno, explicÃ³ la naturaleza ondulatoria de la luz, perfeccionÃ³ el telescopio, hizo aportaciones importantes en teorÃ­a de la probabilidad y estableciÃ³ las leyes del choque entre cuerpos elÃ¡sticos. Fue miembro de la Royal Society."
+        "AñoNacimiento" : 1629,
+        "AñoFallecimiento" : 1695,
+        "descripcion" : "Fue un astrónomo, físico, matemático e inventor neerlandés. Explicó la naturaleza de los anillos de Saturno, fue descubridor de Titán, inventó el reloj de péndulo moderno, explicó la naturaleza ondulatoria de la luz, perfeccionó el telescopio, hizo aportaciones importantes en teoría de la probabilidad y estableció las leyes del choque entre cuerpos elásticos. Fue miembro de la Royal Society."
         
 
     }
