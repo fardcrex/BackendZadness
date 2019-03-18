@@ -1,11 +1,12 @@
 FORMAT: 1A
-HOST: http://polls.apiblueprint.org/
+Documentación: https://www.zadness.com/documentacion
+HOST: https://www.zadness.com/api
 
 # Zadness
 
 API RESTful de grandes científicos de la historia por Jair Conislla
 
-## Questions Collection [/questions]
+## Questions Collection [/cientificos]
 
 ### List All Questions [GET]
 
