@@ -3,34 +3,7 @@
       "code": "AF",
       "name": "Afghanistan"
     },
-    {
-      "code": "AL",
-      "name": "Albania"
-    },
-    {
-      "code": "DZ",
-      "name": "Algeria"
-    },
-    {
-      "code": "AS",
-      "name": "American Samoa"
-    },
-    {
-      "code": "AD",
-      "name": "Andorra"
-    },
-    {
-      "code": "AO",
-      "name": "Angola"
-    },
-    {
-      "code": "AI",
-      "name": "Anguilla"
-    },
-    {
-      "code": "AQ",
-      "name": "Antarctica"
-    },
+    
     {
       "code": "AG",
       "name": "Antigua and Barbuda"
@@ -38,14 +11,6 @@
     {
       "code": "AR",
       "name": "Argentina"
-    },
-    {
-      "code": "AM",
-      "name": "Armenia"
-    },
-    {
-      "code": "AW",
-      "name": "Aruba"
     },
     {
       "code": "AU",
@@ -56,16 +21,8 @@
       "name": "Austria"
     },
     {
-      "code": "AZ",
-      "name": "Azerbaijan"
-    },
-    {
       "code": "BS",
       "name": "Bahamas"
-    },
-    {
-      "code": "BH",
-      "name": "Bahrain"
     },
     {
       "code": "BD",
@@ -78,26 +35,6 @@
     {
       "code": "BY",
       "name": "Belarus"
-    },
-    {
-      "code": "BE",
-      "name": "Belgium"
-    },
-    {
-      "code": "BZ",
-      "name": "Belize"
-    },
-    {
-      "code": "BJ",
-      "name": "Benin"
-    },
-    {
-      "code": "BM",
-      "name": "Bermuda"
-    },
-    {
-      "code": "BT",
-      "name": "Bhutan"
     },
     {
       "code": "BO",
@@ -115,11 +52,7 @@
       "code": "BW",
       "name": "Botswana"
     },
-    {
-      "code": "BV",
-      "name": "Bouvet Island"
-    },
-    {
+        {
       "code": "BR",
       "name": "Brazil"
     },
@@ -139,14 +72,7 @@
       "code": "BG",
       "name": "Bulgaria"
     },
-    {
-      "code": "BF",
-      "name": "Burkina Faso"
-    },
-    {
-      "code": "BI",
-      "name": "Burundi"
-    },
+    
     {
       "code": "KH",
       "name": "Cambodia"
@@ -159,22 +85,7 @@
       "code": "CA",
       "name": "Canada"
     },
-    {
-      "code": "CV",
-      "name": "Cape Verde"
-    },
-    {
-      "code": "KY",
-      "name": "Cayman Islands"
-    },
-    {
-      "code": "CF",
-      "name": "Central African Republic"
-    },
-    {
-      "code": "TD",
-      "name": "Chad"
-    },
+    
     {
       "code": "CL",
       "name": "Chile"
@@ -187,22 +98,12 @@
       "code": "CX",
       "name": "Christmas Island"
     },
-    {
-      "code": "CC",
-      "name": "Cocos [Keeling] Islands"
-    },
+   
     {
       "code": "CO",
       "name": "Colombia"
     },
-    {
-      "code": "KM",
-      "name": "Comoros"
-    },
-    {
-      "code": "CK",
-      "name": "Cook Islands"
-    },
+   
     {
       "code": "CR",
       "name": "Costa Rica"
@@ -219,14 +120,7 @@
       "code": "CW",
       "name": "Curacao"
     },
-    {
-      "code": "CY",
-      "name": "Cyprus"
-    },
-    {
-      "code": "CZ",
-      "name": "Czechia"
-    },
+    
     {
       "code": "CD",
       "name": "Democratic Republic of the Congo"
@@ -247,10 +141,7 @@
       "code": "DO",
       "name": "Dominican Republic"
     },
-    {
-      "code": "TL",
-      "name": "East Timor"
-    },
+   
     {
       "code": "EC",
       "name": "Ecuador"
@@ -279,18 +170,9 @@
       "code": "ET",
       "name": "Ethiopia"
     },
-    {
-      "code": "FK",
-      "name": "Falkland Islands"
-    },
-    {
-      "code": "FO",
-      "name": "Faroe Islands"
-    },
-    {
-      "code": "FJ",
-      "name": "Fiji"
-    },
+    
+   
+   
     {
       "code": "FI",
       "name": "Finland"
@@ -311,14 +193,7 @@
       "code": "TF",
       "name": "French Southern Territories"
     },
-    {
-      "code": "GA",
-      "name": "Gabon"
-    },
-    {
-      "code": "GM",
-      "name": "Gambia"
-    },
+    
     {
       "code": "GE",
       "name": "Georgia"
@@ -327,14 +202,8 @@
       "code": "DE",
       "name": "Germany"
     },
-    {
-      "code": "GH",
-      "name": "Ghana"
-    },
-    {
-      "code": "GI",
-      "name": "Gibraltar"
-    },
+   
+   
     {
       "code": "GR",
       "name": "Greece"
@@ -347,10 +216,7 @@
       "code": "GD",
       "name": "Grenada"
     },
-    {
-      "code": "GP",
-      "name": "Guadeloupe"
-    },
+   
     {
       "code": "GU",
       "name": "Guam"
@@ -367,10 +233,7 @@
       "code": "GN",
       "name": "Guinea"
     },
-    {
-      "code": "GW",
-      "name": "Guinea-Bissau"
-    },
+  
     {
       "code": "GY",
       "name": "Guyana"
@@ -379,10 +242,7 @@
       "code": "HT",
       "name": "Haiti"
     },
-    {
-      "code": "HM",
-      "name": "Heard Island and McDonald Islands"
-    },
+    
     {
       "code": "HN",
       "name": "Honduras"
@@ -431,10 +291,7 @@
       "code": "IT",
       "name": "Italy"
     },
-    {
-      "code": "CI",
-      "name": "Ivory Coast"
-    },
+    
     {
       "code": "JM",
       "name": "Jamaica"
@@ -447,50 +304,11 @@
       "code": "JE",
       "name": "Jersey"
     },
-    {
-      "code": "JO",
-      "name": "Jordan"
-    },
-    {
-      "code": "KZ",
-      "name": "Kazakhstan"
-    },
-    {
-      "code": "KE",
-      "name": "Kenya"
-    },
-    {
-      "code": "KI",
-      "name": "Kiribati"
-    },
-    {
-      "code": "XK",
-      "name": "Kosovo"
-    },
-    {
-      "code": "KW",
-      "name": "Kuwait"
-    },
-    {
-      "code": "KG",
-      "name": "Kyrgyzstan"
-    },
-    {
-      "code": "LA",
-      "name": "Laos"
-    },
-    {
-      "code": "LV",
-      "name": "Latvia"
-    },
-    {
-      "code": "LB",
-      "name": "Lebanon"
-    },
-    {
-      "code": "LS",
-      "name": "Lesotho"
-    },
+   
+    
+   
+   
+   
     {
       "code": "LR",
       "name": "Liberia"
@@ -511,58 +329,18 @@
       "code": "LU",
       "name": "Luxembourg"
     },
-    {
-      "code": "MO",
-      "name": "Macao"
-    },
+    
     {
       "code": "MK",
       "name": "Macedonia"
     },
-    {
-      "code": "MG",
-      "name": "Madagascar"
-    },
-    {
-      "code": "MW",
-      "name": "Malawi"
-    },
+   
     {
       "code": "MY",
       "name": "Malaysia"
     },
-    {
-      "code": "MV",
-      "name": "Maldives"
-    },
-    {
-      "code": "ML",
-      "name": "Mali"
-    },
-    {
-      "code": "MT",
-      "name": "Malta"
-    },
-    {
-      "code": "MH",
-      "name": "Marshall Islands"
-    },
-    {
-      "code": "MQ",
-      "name": "Martinique"
-    },
-    {
-      "code": "MR",
-      "name": "Mauritania"
-    },
-    {
-      "code": "MU",
-      "name": "Mauritius"
-    },
-    {
-      "code": "YT",
-      "name": "Mayotte"
-    },
+   
+  
     {
       "code": "MX",
       "name": "Mexico"
@@ -587,30 +365,12 @@
       "code": "ME",
       "name": "Montenegro"
     },
-    {
-      "code": "MS",
-      "name": "Montserrat"
-    },
-    {
-      "code": "MA",
-      "name": "Morocco"
-    },
+   
     {
       "code": "MZ",
       "name": "Mozambique"
     },
-    {
-      "code": "MM",
-      "name": "Myanmar [Burma]"
-    },
-    {
-      "code": "NA",
-      "name": "Namibia"
-    },
-    {
-      "code": "NR",
-      "name": "Nauru"
-    },
+    
     {
       "code": "NP",
       "name": "Nepal"
@@ -655,14 +415,7 @@
       "code": "MP",
       "name": "Northern Mariana Islands"
     },
-    {
-      "code": "NO",
-      "name": "Norway"
-    },
-    {
-      "code": "OM",
-      "name": "Oman"
-    },
+   
     {
       "code": "PK",
       "name": "Pakistan"
@@ -679,10 +432,7 @@
       "code": "PA",
       "name": "Panama"
     },
-    {
-      "code": "PG",
-      "name": "Papua New Guinea"
-    },
+    
     {
       "code": "PY",
       "name": "Paraguay"
@@ -695,10 +445,7 @@
       "code": "PH",
       "name": "Philippines"
     },
-    {
-      "code": "PN",
-      "name": "Pitcairn Islands"
-    },
+   
     {
       "code": "PL",
       "name": "Poland"
@@ -727,90 +474,9 @@
       "code": "RU",
       "name": "Russia"
     },
-    {
-      "code": "RW",
-      "name": "Rwanda"
-    },
-    {
-      "code": "RE",
-      "name": "Réunion"
-    },
-    {
-      "code": "BL",
-      "name": "Saint Barthélemy"
-    },
-    {
-      "code": "SH",
-      "name": "Saint Helena"
-    },
-    {
-      "code": "KN",
-      "name": "Saint Kitts and Nevis"
-    },
-    {
-      "code": "LC",
-      "name": "Saint Lucia"
-    },
-    {
-      "code": "MF",
-      "name": "Saint Martin"
-    },
-    {
-      "code": "PM",
-      "name": "Saint Pierre and Miquelon"
-    },
-    {
-      "code": "VC",
-      "name": "Saint Vincent and the Grenadines"
-    },
-    {
-      "code": "WS",
-      "name": "Samoa"
-    },
-    {
-      "code": "SM",
-      "name": "San Marino"
-    },
-    {
-      "code": "SA",
-      "name": "Saudi Arabia"
-    },
-    {
-      "code": "SN",
-      "name": "Senegal"
-    },
-    {
-      "code": "RS",
-      "name": "Serbia"
-    },
-    {
-      "code": "SC",
-      "name": "Seychelles"
-    },
-    {
-      "code": "SL",
-      "name": "Sierra Leone"
-    },
-    {
-      "code": "SG",
-      "name": "Singapore"
-    },
-    {
-      "code": "SX",
-      "name": "Sint Maarten"
-    },
-    {
-      "code": "SK",
-      "name": "Slovakia"
-    },
-    {
-      "code": "SI",
-      "name": "Slovenia"
-    },
-    {
-      "code": "SB",
-      "name": "Solomon Islands"
-    },
+ 
+   
+   
     {
       "code": "SO",
       "name": "Somalia"
@@ -835,22 +501,7 @@
       "code": "ES",
       "name": "Spain"
     },
-    {
-      "code": "LK",
-      "name": "Sri Lanka"
-    },
-    {
-      "code": "SD",
-      "name": "Sudan"
-    },
-    {
-      "code": "SR",
-      "name": "Suriname"
-    },
-    {
-      "code": "SJ",
-      "name": "Svalbard and Jan Mayen"
-    },
+   
     {
       "code": "SZ",
       "name": "Swaziland"
@@ -911,18 +562,7 @@
       "code": "TR",
       "name": "Turkey"
     },
-    {
-      "code": "TM",
-      "name": "Turkmenistan"
-    },
-    {
-      "code": "TC",
-      "name": "Turks and Caicos Islands"
-    },
-    {
-      "code": "TV",
-      "name": "Tuvalu"
-    },
+    
     {
       "code": "UM",
       "name": "U.S. Minor Outlying Islands"
@@ -975,18 +615,7 @@
       "code": "VN",
       "name": "Vietnam"
     },
-    {
-      "code": "WF",
-      "name": "Wallis and Futuna"
-    },
-    {
-      "code": "EH",
-      "name": "Western Sahara"
-    },
-    {
-      "code": "YE",
-      "name": "Yemen"
-    },
+   
     {
       "code": "ZM",
       "name": "Zambia"
@@ -994,9 +623,6 @@
     {
       "code": "ZW",
       "name": "Zimbabwe"
-    },
-    {
-      "code": "AX",
-      "name": "Åland"
     }
+   
   ]
