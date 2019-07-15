@@ -1,0 +1,30 @@
+[    
+    {   
+        "nombre":"Redoxon tubo x 10",
+        "fechaVencimiento":"09/09/2020",
+        "lote":"BY172",
+        "status_color":"rojo",
+        "status_vencido":true
+    },
+    {   
+        "nombre":"Aspirina forte 50mg",
+        "fechaVencimiento":"16/09/2019",
+        "lote":"BY123",
+        "status_color":"amarillo",
+        "status_vencido":false
+    },
+    {   
+        "nombre":"Pantene Anticaspa 500ml",
+        "fechaVencimiento":"21/03/2021",
+        "lote":"BY196",
+        "status_color":"rojo",
+        "status_vencido":true
+    },
+    {   
+        "nombre":"Savital 500ml",
+        "fechaVencimiento":"30/02/2020",
+        "lote":"BY157",
+        "status_color":"amarillo",
+        "status_vencido":false
+    }
+]
